@@ -1,3 +1,3 @@
 # 
-Repo created for tracking my progress / challenges  that i faced as a cybersecurity enthusiast.
-I will upload various walkthrougs for HTB and THM.
+With over 45 rooted machines on HTB or THM, i started this epo for tracking my progress / challenges  that i faced.
+I will upload various walkthrougs for HTB.
